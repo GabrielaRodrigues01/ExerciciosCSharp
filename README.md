@@ -20,6 +20,16 @@ O objetivo é demonstrar meu aprendizado e evolução na linguagem, por meio de 
 
 8- Utilização da função Math para verificar o maior número, o menor número, arredondar um valor que está com casa decimal, e também arredondar um valor para cima independente da primeira casa.
 
+9- Utilizando Console.WriteLine para exibir valores de variáveis no console.
+
+10- Utilizando a estrutura condicional if para verificar diferentes condições e exibir mensagens no console.
+
+11- Utilizando a estrutura condicional else para verificar se a velocidade está acima do limite permitido e exibir a mensagem correspondente no console.
+
+12- Utilizando a estrutura condicional else if para verificar diferentes condições com base no nome e idade.
+
+
+
 
 
 
