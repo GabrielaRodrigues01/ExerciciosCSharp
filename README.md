@@ -28,6 +28,28 @@ O objetivo é demonstrar meu aprendizado e evolução na linguagem, por meio de 
 
 12- Utilizando a estrutura condicional else if para verificar diferentes condições com base no nome e idade.
 
+13- Utilizando a estrutura de repetição while.
+
+14- Utilizando a estrutura de repetição do while.
+
+15- Utilizando a estrutura de repetição for.
+
+16- Parando um loop antes que ele complete todo seu ciclo utilizando break.
+
+17- Pulando uma execução do loop utilizando o continue.
+
+18- Incrementando uma variável.
+
+
+
+
+
+
+
+
+
+
+
 
 
 

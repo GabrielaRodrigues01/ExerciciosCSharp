@@ -1,7 +1,7 @@
 using System;
 
 string nome = "Gabriela";
-int idade = 23;
+int idade = 24;
 
 if (!string.IsNullOrEmpty(nome) && nome == "Gabs")
 {

@@ -6,4 +6,5 @@ string nome = "Gabriela";
 
 Console.WriteLine("Idade: " + idade);
 Console.WriteLine("Altura: " + altura);
-Console.WriteLine("Nome: " + nome);
+Console.WriteLine("Nome: " + nome);cd
+
