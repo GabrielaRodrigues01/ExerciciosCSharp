@@ -40,6 +40,31 @@ O objetivo é demonstrar meu aprendizado e evolução na linguagem, por meio de 
 
 18- Incrementando uma variável.
 
+19- Utilizando a estrutura condicional switch.
+
+20- Armazenando valores em variáveis com cada um dos tipos de dados: String, number e bool;
+
+21- Utilizando uma estrutura if para verificar a entrada em uma balada se a idade for igual ou maior que 18 permitir entrada do usuário.
+
+22- Criando uma constante e realizando a verificação do valor dela utilizando a estrutura condicional if.
+
+23- Armazenando a velocidade de um carro em uma variável, e realizando uma verificação utilizando if/else se ele está acima da velocidade. 80 é a velocidade máxima permitida, se estiver acima ou abaixo, exibir uma mensagem em Console.WriteLine.
+
+24- Armazenando em variáveis informações sobre um usuário e realizando uma verificação utilizando if/else, se ele é maior de 18 anos e possui CNH apresentar uma mensagem utilizando Console.WriteLine; se pode ou não dirigir dependendo do resultado da validação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
